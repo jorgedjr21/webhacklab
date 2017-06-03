@@ -1,0 +1,31 @@
+{
+  "name": "webhacklab",
+  "version": "1.0.0",
+  "description": "hacklab maker hacklab",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "http-server": "^0.10.0",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgedjr21/webhacklab.git"
+  },
+  "keywords": [
+    "hacklab",
+    "unifei",
+    "hackthon"
+  ],
+  "author": "Jorge Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgedjr21/webhacklab/issues"
+  },
+  "homepage": "https://github.com/jorgedjr21/webhacklab#readme"
+}
